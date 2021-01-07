@@ -1,0 +1,1074 @@
+    @media all and (min-width: 1024px) and (max-width: 1440px) {
+        body >header{
+            width: 100vw;
+            position: fixed;
+        }
+        body > main > section:nth-child(1) {
+            height: 113vh;
+        }
+
+        body > main > section:nth-child(2) {
+            height: 65vh;
+        }
+
+        body > main > section:nth-child(3) {
+            height: 95vh;
+        }
+
+        body > main > section:nth-child(3) > section > div:nth-child(3) > div {
+            width: 877px;
+        }
+
+        .education#gdse {
+            left: 132px;
+        }
+
+        .education#ousl {
+            left: 420px;
+        }
+
+        .education#tvce {
+            left: 710px;
+        }
+
+        .education#school {
+            left: 1001px;
+        }
+
+        body > main > section:nth-child(4) {
+            height: 123vh;
+        }
+
+        body > main > section:nth-child(6) {
+            height: 109vh;
+        }
+    }
+    @media all and (min-width: 768px) and (max-width: 1024px) {
+        body >header{
+            width: 100vw;
+            position: fixed;
+        }
+        body > main > section:nth-child(1){
+            width: 100%;
+        }
+        body > main > section:nth-child(1) > div:nth-child(1) > h2 {
+            font-size: 46px;
+        }
+        body>main>section:nth-child(1)>div:nth-child(2) {
+            position: absolute;
+            top: 471px;
+            text-align: center;
+            width: 286px;
+        }
+
+        body > main > section > img {
+            width: 32.4%;
+        }
+        body > main > section:nth-child(2) {
+            height: 82vh;
+        }
+        body > main > section:nth-child(2) > section {
+            padding-inline-start: 90px;
+        }
+
+        body > main > section:nth-child(2) > section  > div {
+            width: 326px;
+        }
+        body > main > section:nth-child(3) > section > div:nth-child(3) > div {
+            width: 624px;
+            top: 205px;
+        }
+        .circle{
+            position: absolute;
+            top: 324px;
+        }
+        .circle#one {
+            left: 19.6%;
+            top: 324px;
+        }
+        .circle#two {
+            left: 39.6%;
+            top: 324px;
+        }
+        .circle#three {
+            left: 59.6%;
+            top: 324px;
+        }
+        .circle#four {
+            left: 79.8%;
+            top: 325px;
+        }
+        .vartical {
+            position: absolute;
+        }
+        .vartical#vone {
+            left: 20.4%;
+            top: 257px;
+        }
+        .vartical#vtwo {
+            left: 40.4%;
+            top: 341px;
+        }
+
+        .vartical#vthree {
+            left: 60.4%;
+            top: 257px;
+        }
+
+        .vartical#vfour {
+            left: 80.51%;
+            top: 341px;
+        }
+        .education{
+            position: absolute;
+        }
+        .education#gdse {
+            left: 47px;
+            top: 192px;
+        }
+
+        .education#ousl {
+            left: 256px;
+            top: 409px;
+        }
+
+        .education#school {
+            left: 664px;
+            top: 410px;
+        }
+
+        .education#tvce {
+            left: 456px;
+            top: 192px;
+        }
+
+        body > main > section:nth-child(4) > section {
+            width: 97%;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(2) {
+            margin-inline-start: 0;
+            margin-inline-end: 0;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(2) > div > div {
+            width: 464px;
+            height: 56px;
+        }
+        .input{
+            width: 448px;
+        }
+        .inputmassege {
+            top: 3px;
+            left: 0;
+            width: 453px;
+            height: 165px;
+        }
+
+        #txtMessage {
+            width: 464px;
+            height: 221px;
+        }
+
+        #txtMessage.contact h1 {
+            top: -93px;
+        }
+    }
+    @media all and (min-width: 425px) and (max-width: 768px){
+        body >header {
+            z-index: 5;
+            position: fixed;
+        }
+        body>main>section:nth-child(1)>div:nth-child(1) {
+            z-index: 1;
+            top: 334px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(1) > h2 {
+            font-size: 37px;
+        }
+        body>main>section:nth-child(1)>div:nth-child(2) {
+            top: 407px;
+        }
+        body>main>section:nth-child(1)>div:nth-child(2)>nav>div:nth-child(3){
+            position: relative;
+            top: -22px;
+        }
+        body > main > section:nth-child(3) > section > div:nth-child(3) > div {
+            width: 469px;
+        }
+        .education {
+            width: 226px;
+        }
+        .education h1 {
+            font-size: 14px;
+        }
+        .education#ousl {
+            left: 194px;
+        }
+        .education#tvce {
+            left: 352px;
+        }
+        .education#school {
+            left: 508px;
+        }
+        .vartical#vone {
+            left: 20.3%;
+            top: 268px;
+        }
+        .vartical#vtwo {
+            left: 40.3%;
+            top: 343px;
+        }
+        .vartical#vthree {
+            left: 60.3%;
+            top: 267px;
+        }
+        .vartical#vfour {
+            left: 80.5%;
+            top: 337px;
+        }
+        body>main>section:nth-child(3)>section>div:nth-child(3)>div {
+            height: 5px;
+        }
+        .vartical {
+            width: 5px;
+            height: 60px;
+        }
+        .circle {
+            width: 16px;
+            height: 16px;
+        }
+        .circle#two {
+            left: 39.6%;
+            top: 327px;
+        }
+        .circle#three {
+            left: 59.6%;
+            top: 327px;
+        }
+        .circle#four {
+            left: 79.8%;
+            top: 326px;
+        }
+        body>main>section:nth-child(4) {
+            height: 134vh;
+        }
+        body>main>section:nth-child(4)>section>div>a>div {
+            width: 225px;
+            height: 181px;
+            margin: 14px;
+        }
+        body>main>section:nth-child(4)>section>div>a>div>div {
+            top: 136px;
+        }
+        body>main>section:nth-child(6) {
+            height: 130vh;
+        }
+        body > main > section:nth-child(6) > section:nth-child(2) > div > div {
+            width: 630px;
+            height: 52px;
+        }
+        #txtMessage {
+            width: 630px;
+            height: 172px;
+        }
+        #txtMessage.contact h1 {
+            top: -70px;
+        }
+        body>main>section:nth-child(6)>section:nth-child(4) {
+            margin-block-start: 83px;
+        }
+    }
+    @media all and (min-width: 320px) and (max-width: 425px) {
+
+        body > header {
+            display: none;
+        }
+
+        body > main > section:nth-child(1) {
+            height: 76vh;
+            text-align: center;
+        }
+
+        body > main > section > img {
+            width: 57.4%;
+            top: -32px;
+            left: 22%;
+            border-radius: 30%;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(1) {
+            position: absolute;
+            top: 264px;
+            padding: 35px;
+            text-align: center;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(1) > h1 {
+            font-size: 1em;
+            left: -52px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(1) > h2 {
+            font-size: 1.37em;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) {
+            top: 312px;
+            padding: 64px;
+            text-align: center;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav {
+            left: -42px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div > a {
+            font-size: 11px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div:nth-child(3) > ul {
+            left: -9px;
+            top: -44px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div:nth-child(1) {
+            width: 93px;
+            height: 30px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div:nth-child(2) {
+            width: 93px;
+            height: 30px;
+            top: 0px;
+            position: absolute;
+        }
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div:nth-child(3) > ul {
+            top: -10px;
+        }
+
+        .listStyle {
+            padding: 14px;
+            font-size: 18px;
+        }
+
+        /*section 2*/
+        body > main > section:nth-child(2) {
+            height: 63vh;
+        }
+
+        body > main > section:nth-child(2) > div {
+            top: -14px;
+        }
+
+        body > main > section:nth-child(2) > div > h1 {
+            font-size: 12px;
+            top: 33px;
+        }
+
+        body > main > section:nth-child(2) > div > h2 {
+            top: 18px;
+            font-size: 20px;
+            position: relative;
+        }
+
+        body > main > section:nth-child(2) > section {
+            top: 26px;
+            padding-inline-start: 52px;
+        }
+
+        body > main > section:nth-child(2) > section  > div {
+            width: 391px;
+            height: 39px;
+        }
+
+        body > main > section:nth-child(2) > section  > div > h1 {
+            font-size: 13px;
+            letter-spacing: 0.6px;
+        }
+
+        body > main > section:nth-child(2) > section > div  > div {
+            height: 8px;
+        }
+
+        body > main > section:nth-child(2) > section > div  > div > div {
+            height: 8px;
+        }
+
+        @keyframes moveAboutMe {
+            100% {
+                transform: translateY(-25px);
+            }
+        }
+
+        /*Section 3*/
+        body > main > section:nth-child(3) {
+            height: 59vh;
+            background-position: inherit;
+        }
+
+        body > main > section:nth-child(3) > div {
+            top: -20px;
+        }
+
+        body > main > section:nth-child(3) > div > h1 {
+            font-size: 12px;
+        }
+
+        body > main > section:nth-child(3) > div > h2 {
+            font-size: 22px;
+            position: relative;
+            top: 19px;
+        }
+
+        .circle {
+            width: 15px;
+            height: 15px;
+        }
+
+        .vartical {
+            width: 34px;
+            height: 5px;
+            border-radius: 15px;
+        }
+
+        body > main > section:nth-child(3) > section > div:nth-child(3) > div {
+            width: 5px;
+            height: 200px;
+            top: -41px;
+            left: 49.4%;
+        }
+
+        .circle#one {
+            left: 47.9%;
+            top: 28px;
+        }
+
+        .vartical#vone {
+            left: 41.53%;
+            top: -27px;
+        }
+
+        .education#gdse {
+            left: 2px;
+            top: 85px;
+        }
+
+        .education {
+            position: absolute;
+            width: 164px;
+            height: 65px;
+        }
+
+        .education h1 {
+            font-size: 13px;
+        }
+
+        .education h2 {
+            font-size: 11px;
+        }
+
+        .circle#two {
+            left: 47.9%;
+            top: 80px;
+        }
+
+        .vartical#vtwo {
+            left: 48.53%;
+            top: 35px;
+        }
+
+        .education#ousl {
+            top: 146px;
+            left: 209px;
+        }
+
+        .circle#three {
+            left: 47.9%;
+            top: 132px;
+        }
+
+        .vartical#vthree {
+            left: 41.53%;
+            top: 96px;
+        }
+
+        .education#tvce {
+            left: 2px;
+            top: 207px;
+        }
+
+        .circle#four {
+            left: 47.9%;
+            top: 184px;
+        }
+
+        .vartical#vfour {
+            left: 48.53%;
+            top: 159px;
+        }
+
+        .education#school {
+            top: 282px;
+            left: 209px;
+        }
+        .inputmassege {
+            top: -17px;
+            left: 0px;
+            width: 342px;
+            height: 75px;
+        }
+
+
+        /*Sectioin 4*/
+        body > main > section:nth-child(4) {
+            height: 238vh;
+        }
+
+        body > main > section:nth-child(4) > div {
+            top: 14px;
+        }
+
+        body > main > section:nth-child(4) > div > h1 {
+            font-size: 12px;
+        }
+
+        body > main > section:nth-child(4) > div > h2 {
+            font-size: 22px;
+        }
+
+        body > main > section:nth-child(4) > section {
+            padding-block-start: 22px;
+        }
+
+        body > main > section:nth-child(4) > section > div > a > div {
+            margin: 11px;
+        }
+
+        /*Section 5*/
+        body > main > section:nth-child(5) {
+            height: 31vh;
+        }
+
+        body > main > section:nth-child(5) > div {
+            top: -15px;
+            position: relative;
+        }
+
+        body > main > section:nth-child(5) > div > h1 {
+            font-size: 12px;
+        }
+
+        body > main > section:nth-child(5) > div > h2 {
+            font-size: 22px;
+            position: relative;
+            top: 19px;
+        }
+
+        body > main > section:nth-child(5) > section {
+            top: 12px;
+        }
+
+        body > main > section:nth-child(5) > section > h1 {
+            font-size: 1em;
+        }
+
+        body > main > section:nth-child(5) > section > h2 {
+            font-size: 0.8em;
+        }
+
+        /*Section 6*/
+        body > main > section:nth-child(6) {
+            height: 80vh;
+        }
+
+        body > main > section:nth-child(6) > div {
+            top: -20px;
+        }
+
+        body > main > section:nth-child(6) > div > h1 {
+            font-size: 12px;
+            color: #FFEB3B;
+        }
+
+        body > main > section:nth-child(6) > div > h2 {
+            font-size: 22px;
+            position: relative;
+            top: 20px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(2) {
+            top: -6px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(2) > div > div {
+            width: 347px;
+            height: 40px;
+            border: 2px solid #c4c4c4;
+            margin: 3px;
+        }
+
+        .contact h1 {
+            font-size: 10px;
+        }
+
+        #txtMessage {
+            width: 347px;
+            height: 120px;
+            border: 2px solid #c4c4c4;
+        }
+
+        #txtMessage.contact h1 {
+            top: -51px;
+        }
+
+        .input {
+            top: -10px;
+            width: 285px;
+        }
+
+        body > main > section:nth-child(6) > div:nth-child(3) {
+            width: 87px;
+            height: 34px;
+            top: 7px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) {
+            margin-block-start: 33px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div > div {
+            font-size: 21px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div > h1 {
+            font-size: 12px;
+            margin-block-start: 2px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div > h2 {
+            font-size: 12px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div {
+            width: 124px;
+            height: 69px;
+        }
+
+        /*footer*/
+        footer > section {
+            height: 66px;
+        }
+
+        footer > section > div:nth-child(1) > h1 {
+            font-size: 15px;
+        }
+
+        footer > section > div:nth-child(1) > h2 {
+            font-size: 11px;
+        }
+
+        .footerIcon {
+            font-size: 15px;
+            padding: 8px;
+        }
+    }
+    @media all and (max-width: 320px) {
+
+        body > header {
+            display: none;
+            width: 48%;
+        }
+
+        body > main > section:nth-child(1) {
+            height: 76vh;
+            text-align: center;
+        }
+
+        body > main > section > img {
+            width: 63.4%;
+            top: -32px;
+            left: 16%;
+            border-radius: 30%;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(1) {
+            position: absolute;
+            top: 270px;
+            padding: 14px;
+            text-align: center;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(1) > h1 {
+            font-size: 1em;
+            left: -52px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(1) > h2 {
+            font-size: 1.3em;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) {
+            top: 336px;
+            padding: 35px;
+            text-align: center;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav {
+            left: -42px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div > a {
+            font-size: 11px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div:nth-child(3) > ul {
+            left: -9px;
+            top: -11px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div:nth-child(1) {
+            width: 93px;
+            height: 30px;
+        }
+
+        body > main > section:nth-child(1) > div:nth-child(2) > nav > div:nth-child(2) {
+            width: 93px;
+            height: 30px;
+            top: 3px;
+            position: absolute;
+        }
+
+        .listStyle {
+            padding: 14px;
+            font-size: 18px;
+        }
+
+        /*section 2*/
+        body > main > section:nth-child(2) {
+            height: 58vh;
+        }
+
+        body > main > section:nth-child(2) > div {
+            top: -14px;
+        }
+
+        body > main > section:nth-child(2) > div > h1 {
+            font-size: 11.5px;
+            top: 33px;
+        }
+
+        body > main > section:nth-child(2) > div > h2 {
+            top: 16px;
+            font-size: 19px;
+            position: relative;
+        }
+
+        body > main > section:nth-child(2) > section {
+            top: 26px;
+            padding-inline-start: 40px;
+        }
+
+        body > main > section:nth-child(2) > section  > div {
+            width: 275px;
+            height: 34px;
+            left: -11px;
+            position: relative;
+        }
+
+        body > main > section:nth-child(2) > section > div > h1 {
+            font-size: 13px;
+            letter-spacing: 0.6px;
+        }
+
+        body > main > section:nth-child(2) > section > div > div {
+            height: 8px;
+            width: 85%;
+        }
+
+        body > main > section:nth-child(2) > section > div > div > div {
+            height: 8px;
+        }
+
+        @keyframes moveAboutMe {
+            100% {
+                transform: translateY(-25px);
+            }
+        }
+
+        /*Section 3*/
+        body > main > section:nth-child(3) {
+            height: 59vh;
+            background-position: inherit;
+        }
+
+        body > main > section:nth-child(3) > div {
+            top: -20px;
+        }
+
+        body > main > section:nth-child(3) > div > h1 {
+            font-size: 11.5px;
+        }
+
+        body > main > section:nth-child(3) > div > h2 {
+            font-size: 19px;
+            position: relative;
+            top: 19px;
+        }
+
+        .circle {
+            width: 15px;
+            height: 15px;
+            position: absolute;
+        }
+
+        .vartical {
+            width: 34px;
+            height: 5px;
+            border-radius: 15px;
+            position: absolute;
+        }
+
+        body > main > section:nth-child(3) > section > div:nth-child(3) > div {
+            width: 5px;
+            height: 200px;
+            top: 15px;
+            left: 49.4%;
+        }
+
+        .circle#one {
+            left: 47.9%;
+            top: 80px;
+        }
+
+        .vartical#vone {
+            left: 41.53%;
+            top: 85px;
+        }
+
+        .education#gdse {
+            left: 2px;
+            top: 73px;
+        }
+
+        .education {
+            width: 145px;
+            height: 65px;
+            position: absolute;
+        }
+
+        .education h1 {
+            font-size: 11px;
+        }
+
+        .education h2 {
+            font-size: 10px;
+        }
+
+        .circle#two {
+            left: 47.9%;
+            top: 200px;
+        }
+
+        .vartical#vtwo {
+            left: 48.53%;
+            top: 139px;
+        }
+
+        .education#ousl {
+            top: 119px;
+            left: 175px;
+        }
+
+        .circle#three {
+            left: 47.9%;
+            top: 133px;
+        }
+
+        .vartical#vthree {
+            left: 41.53%;
+            top: 205px;
+        }
+
+        .education#tvce {
+            left: 2px;
+            top: 181px;
+        }
+
+        .circle#four {
+            left: 47.9%;
+            top: 267px;
+        }
+
+        .vartical#vfour {
+            left: 48.53%;
+            top: 271px;
+        }
+
+        .education#school {
+            top: 249px;
+            left: 175px;
+        }
+
+        /*Sectioin 4*/
+        body > main > section:nth-child(4) {
+            height: 238vh;
+        }
+
+        body > main > section:nth-child(4) > div {
+            top: 14px;
+        }
+
+        body > main > section:nth-child(4) > div > h1 {
+            font-size: 11.5px;
+        }
+
+        body > main > section:nth-child(4) > div > h2 {
+            font-size: 19px;
+        }
+
+        body > main > section:nth-child(4) > section {
+            padding-block-start: 22px;
+        }
+
+        body > main > section:nth-child(4) > section > div > a > div {
+            margin: 11px;
+        }
+
+        /*Section 5*/
+        body > main > section:nth-child(5) {
+            height: 31vh;
+        }
+
+        body > main > section:nth-child(5) > div {
+            top: -15px;
+            position: relative;
+        }
+
+        body > main > section:nth-child(5) > div > h1 {
+            font-size: 11.5px;
+        }
+
+        body > main > section:nth-child(5) > div > h2 {
+            font-size: 19px;
+            position: relative;
+            top: 19px;
+        }
+
+        body > main > section:nth-child(5) > section {
+            top: 12px;
+        }
+
+        body > main > section:nth-child(5) > section > h1 {
+            font-size: 1em;
+        }
+
+        body > main > section:nth-child(5) > section > h2 {
+            font-size: 0.8em;
+        }
+
+        /*Section 6*/
+        body > main > section:nth-child(6) {
+            height: 86vh;
+        }
+
+        body > main > section:nth-child(6) > div {
+            top: -20px;
+        }
+
+        body > main > section:nth-child(6) > div > h1 {
+            font-size: 11.5px;
+            color: #FFEB3B;
+        }
+
+        body > main > section:nth-child(6) > div > h2 {
+            font-size: 19px;
+            position: relative;
+            top: 20px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(2) {
+            top: -6px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(2) > div > div {
+            width: 302px;
+            height: 40px;
+            border: 2px solid #c4c4c4;
+            margin: 3px;
+        }
+
+        .contact h1 {
+            font-size: 10px;
+        }
+
+        #txtMessage {
+            width: 302px;
+            height: 120px;
+            border: 2px solid #c4c4c4;
+        }
+
+        #txtMessage.contact h1 {
+            top: -51px;
+        }
+
+        .input {
+            top: -10px;
+            width: 285px;
+        }
+        .inputmassege {
+            color: white;
+            position: relative;
+            width: 294px;
+            outline: none;
+            background: none;
+            border: none;
+        }
+
+        body > main > section:nth-child(6) > div:nth-child(3) {
+            width: 87px;
+            height: 34px;
+            top: 7px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) {
+            margin-block-start: 16px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div > div {
+            font-size: 21px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div > h1 {
+            font-size: 12px;
+            margin-block-start: 2px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div > h2 {
+            font-size: 12px;
+        }
+
+        body > main > section:nth-child(6) > section:nth-child(4) > div {
+            width: 148px;
+            height: 69px;
+        }
+
+        /*footer*/
+        footer > section {
+            height: 66px;
+        }
+
+        footer > section > div:nth-child(1) > h1 {
+            font-size: 15px;
+        }
+
+        footer > section > div:nth-child(1) > h2 {
+            font-size: 11px;
+        }
+
+        .footerIcon {
+            font-size: 15px;
+            padding: 8px;
+        }
+    }

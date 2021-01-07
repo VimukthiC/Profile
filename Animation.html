@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="assests/css/normalize.css" rel="stylesheet">
+    <style>
+        div{
+            background: red;
+            width: 120px;
+            height: 70px;
+            border: 1px solid black;
+            border-radius: 15px;
+            animation: myanimation 10s infinite;
+            animation-direction: alternate;
+        }
+        @keyframes myanimation {
+            0%{
+                background: red;
+                margin: 0 0 0 0;
+                transform: rotate(360deg);
+            }
+            25%{
+                background: yellow;
+                margin: 0 0 0 600px;
+                transform: rotate(-360deg);
+            }
+            50%{
+                background: green;
+                margin: 600px 0 0 600px;
+                transform: rotate(360deg);
+            }
+            75%{
+                background: blue;
+                margin: 600px 0 0 0;
+                transform: rotate(-360deg);
+            }
+
+        }
+    </style>
+</head>
+<body>
+<div></div>
+</body>
+</html>

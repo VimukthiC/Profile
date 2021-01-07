@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Circle Border Transition</title>
+
+    <style>
+        body{
+            background:linear-gradient(to left,#8b2092,#00188b);
+        }
+        div{
+            width: 300px;
+            height: 300px;
+            border-radius: 100%;
+            background: dimgray;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+        div>h1{
+            color: white;
+            position: absolute;
+            width: max-content;
+            height: max-content;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+        div::before{
+            content: "";
+            border-radius: 100%;
+            border: 15px solid  white;
+            border-top: 15px solid red;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+
+        }
+        div:hover:before{
+            transition: all 7s;
+            transform: rotate(360deg);
+
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Hello</h1>
+    </div>
+</body>
+</html>
